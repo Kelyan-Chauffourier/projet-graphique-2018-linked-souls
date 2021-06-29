@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: 8c53bd869754e374cb26ca636cdcd066
+timeCreated: 1519416318
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HurricaneAttackLink_0
+    21300002: HurricaneAttackLink_2
+    21300004: HurricaneAttackLink_3
+    21300006: HurricaneAttackLink_4
+    21300008: HurricaneAttackLink_6
+    21300010: HurricaneAttackLink_7
+    21300012: HurricaneAttackLink_8
+    21300014: HurricaneAttackLink_9
+    21300016: HurricaneAttackLink_11
+    21300018: HurricaneAttackLink_13
+    21300020: HurricaneAttackLink_14
+    21300022: HurricaneAttackLink_15
+    21300024: HurricaneAttackLink_17
+    21300026: HurricaneAttackLink_18
+    21300028: HurricaneAttackLink_19
+    21300030: HurricaneAttackLink_20
+    21300032: HurricaneAttackLink_22
+    21300034: HurricaneAttackLink_24
+    21300036: HurricaneAttackLink_25
+    21300038: HurricaneAttackLink_26
+    21300040: HurricaneAttackLink_28
+    21300042: HurricaneAttackLink_29
+    21300044: HurricaneAttackLink_30
+    21300046: HurricaneAttackLink_31
+    21300048: HurricaneAttackLink_33
+    21300050: HurricaneAttackLink_35
+    21300052: HurricaneAttackLink_36
+    21300054: HurricaneAttackLink_37
+    21300056: HurricaneAttackLink_39
+    21300058: HurricaneAttackLink_40
+    21300060: HurricaneAttackLink_41
+    21300062: HurricaneAttackLink_42
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HurricaneAttackLink_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 177
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 177
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 177
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 177
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 164
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_7
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 163
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 172
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 134
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 134
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 134
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 134
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 124
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 122
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 126
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_20
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 129
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 60
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 60
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_25
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 60
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 60
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 47
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_29
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 46
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 51
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 55
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 17
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 17
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_36
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 17
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 17
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 7
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_40
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 5
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_41
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 9
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HurricaneAttackLink_42
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 12
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

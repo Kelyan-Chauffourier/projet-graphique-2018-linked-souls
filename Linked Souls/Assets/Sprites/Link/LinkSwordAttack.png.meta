@@ -1,0 +1,1437 @@
+fileFormatVersion: 2
+guid: 148145e583fade046b8c9c71a34c2372
+timeCreated: 1519337602
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LinkSwordAttack_0
+    21300002: LinkSwordAttack_1
+    21300004: LinkSwordAttack_2
+    21300006: LinkSwordAttack_3
+    21300008: LinkSwordAttack_4
+    21300010: LinkSwordAttack_5
+    21300012: LinkSwordAttack_6
+    21300014: LinkSwordAttack_7
+    21300016: LinkSwordAttack_8
+    21300018: LinkSwordAttack_9
+    21300020: LinkSwordAttack_10
+    21300022: LinkSwordAttack_11
+    21300024: LinkSwordAttack_12
+    21300026: LinkSwordAttack_13
+    21300028: LinkSwordAttack_14
+    21300030: LinkSwordAttack_15
+    21300032: LinkSwordAttack_16
+    21300034: LinkSwordAttack_17
+    21300036: LinkSwordAttack_18
+    21300038: LinkSwordAttack_19
+    21300040: LinkSwordAttack_20
+    21300042: LinkSwordAttack_21
+    21300044: LinkSwordAttack_22
+    21300046: LinkSwordAttack_23
+    21300048: LinkSwordAttack_24
+    21300050: LinkSwordAttack_25
+    21300052: LinkSwordAttack_26
+    21300054: LinkSwordAttack_27
+    21300056: LinkSwordAttack_28
+    21300058: LinkSwordAttack_29
+    21300060: LinkSwordAttack_30
+    21300062: LinkSwordAttack_31
+    21300064: LinkSwordAttack_32
+    21300066: LinkSwordAttack_33
+    21300068: LinkSwordAttack_34
+    21300070: LinkSwordAttack_35
+    21300072: LinkSwordAttack_36
+    21300074: LinkSwordAttack_37
+    21300076: LinkSwordAttack_38
+    21300078: LinkSwordAttack_39
+    21300080: LinkSwordAttack_40
+    21300082: LinkSwordAttack_41
+    21300084: LinkSwordAttack_42
+    21300086: LinkSwordAttack_43
+    21300088: LinkSwordAttack_44
+    21300090: LinkSwordAttack_45
+    21300092: LinkSwordAttack_46
+    21300094: LinkSwordAttack_47
+    21300096: LinkSwordAttack_48
+    21300098: LinkSwordAttack_49
+    21300100: LinkSwordAttack_50
+    21300102: LinkSwordAttack_51
+    21300104: LinkSwordAttack_52
+    21300106: LinkSwordAttack_53
+    21300108: LinkSwordAttack_54
+    21300110: LinkSwordAttack_55
+    21300112: LinkSwordAttack_56
+    21300114: LinkSwordAttack_57
+    21300116: LinkSwordAttack_58
+    21300118: LinkSwordAttack_59
+    21300120: LinkSwordAttack_60
+    21300122: LinkSwordAttack_61
+    21300124: LinkSwordAttack_62
+    21300126: LinkSwordAttack_63
+    21300128: LinkSwordAttack_64
+    21300130: LinkSwordAttack_65
+    21300132: LinkSwordAttack_66
+    21300134: LinkSwordAttack_67
+    21300136: LinkSwordAttack_68
+    21300138: LinkSwordAttack_69
+    21300140: LinkSwordAttack_70
+    21300142: LinkSwordAttack_71
+    21300144: LinkSwordAttack_72
+    21300146: LinkSwordAttack_73
+    21300148: LinkSwordAttack_74
+    21300150: LinkSwordAttack_75
+    21300152: LinkSwordAttack_76
+    21300154: LinkSwordAttack_77
+    21300156: LinkSwordAttack_78
+    21300158: LinkSwordAttack_79
+    21300160: LinkSwordAttack_80
+    21300162: LinkSwordAttack_81
+    21300164: LinkSwordAttack_82
+    21300166: LinkSwordAttack_83
+    21300168: LinkSwordAttack_84
+    21300170: LinkSwordAttack_85
+    21300172: LinkSwordAttack_86
+    21300174: LinkSwordAttack_87
+    21300176: LinkSwordAttack_88
+    21300178: LinkSwordAttack_89
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LinkSwordAttack_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 261
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 260
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 260
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 260
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 260
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 260
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 260
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 254
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 260
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 260
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_10
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 260
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_11
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 260
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_12
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 260
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 260
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_14
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 260
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 214
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 214
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 214
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 214
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_19
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 213
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 207
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 206
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 209
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_23
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 206
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 207
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_25
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 206
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_26
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 214
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_27
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 214
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_28
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 214
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_29
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 214
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 167
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 162
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 157
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_33
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 154
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 156
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_35
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 159
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 166
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_37
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 166
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_38
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 166
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_39
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 163
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_40
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 153
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_41
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 151
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_42
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 152
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_43
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 157
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_44
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 165
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 111
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_46
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 110
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 110
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_48
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 110
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_49
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 110
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_50
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 110
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 110
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_52
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 104
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_53
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 110
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 110
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_55
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 110
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_56
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 110
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_57
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 110
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_58
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 110
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_59
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 110
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_61
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_62
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 64
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_63
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 64
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_64
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 63
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_65
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 57
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_66
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 56
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_67
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 59
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_68
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 56
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_69
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 57
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_70
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 56
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_71
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 64
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_72
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 64
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_73
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 64
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_74
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 64
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 17
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_76
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_77
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 7
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_78
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 4
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_79
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 6
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_80
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 9
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_81
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 16
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_82
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 16
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_83
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 16
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_84
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 13
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_85
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 3
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_86
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_87
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_88
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 7
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSwordAttack_89
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 15
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

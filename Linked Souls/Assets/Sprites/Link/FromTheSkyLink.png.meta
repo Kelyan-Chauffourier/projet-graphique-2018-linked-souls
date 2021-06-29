@@ -1,0 +1,1167 @@
+fileFormatVersion: 2
+guid: f44d03cf033c72149a71553418fa3973
+timeCreated: 1519844320
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FromTheSkyLink_0
+    21300002: FromTheSkyLink_1
+    21300004: FromTheSkyLink_2
+    21300006: FromTheSkyLink_3
+    21300008: FromTheSkyLink_4
+    21300010: FromTheSkyLink_5
+    21300012: FromTheSkyLink_6
+    21300014: FromTheSkyLink_7
+    21300016: FromTheSkyLink_8
+    21300018: FromTheSkyLink_9
+    21300020: FromTheSkyLink_10
+    21300022: FromTheSkyLink_11
+    21300024: FromTheSkyLink_12
+    21300026: FromTheSkyLink_13
+    21300028: FromTheSkyLink_14
+    21300030: FromTheSkyLink_15
+    21300032: FromTheSkyLink_16
+    21300034: FromTheSkyLink_17
+    21300036: FromTheSkyLink_18
+    21300038: FromTheSkyLink_19
+    21300040: FromTheSkyLink_20
+    21300042: FromTheSkyLink_21
+    21300044: FromTheSkyLink_22
+    21300046: FromTheSkyLink_23
+    21300048: FromTheSkyLink_24
+    21300050: FromTheSkyLink_25
+    21300052: FromTheSkyLink_26
+    21300054: FromTheSkyLink_27
+    21300056: FromTheSkyLink_28
+    21300058: FromTheSkyLink_29
+    21300060: FromTheSkyLink_30
+    21300062: FromTheSkyLink_31
+    21300064: FromTheSkyLink_32
+    21300066: FromTheSkyLink_33
+    21300068: FromTheSkyLink_34
+    21300070: FromTheSkyLink_35
+    21300072: FromTheSkyLink_36
+    21300074: FromTheSkyLink_37
+    21300076: FromTheSkyLink_38
+    21300078: FromTheSkyLink_39
+    21300080: FromTheSkyLink_40
+    21300082: FromTheSkyLink_41
+    21300084: FromTheSkyLink_42
+    21300086: FromTheSkyLink_43
+    21300088: FromTheSkyLink_44
+    21300090: FromTheSkyLink_45
+    21300092: FromTheSkyLink_46
+    21300094: FromTheSkyLink_47
+    21300096: FromTheSkyLink_48
+    21300098: FromTheSkyLink_49
+    21300100: FromTheSkyLink_50
+    21300102: FromTheSkyLink_51
+    21300104: FromTheSkyLink_52
+    21300106: FromTheSkyLink_53
+    21300108: FromTheSkyLink_54
+    21300110: FromTheSkyLink_55
+    21300112: FromTheSkyLink_56
+    21300114: FromTheSkyLink_57
+    21300116: FromTheSkyLink_58
+    21300118: FromTheSkyLink_59
+    21300120: FromTheSkyLink_60
+    21300122: FromTheSkyLink_61
+    21300124: FromTheSkyLink_62
+    21300126: FromTheSkyLink_63
+    21300128: FromTheSkyLink_64
+    21300130: FromTheSkyLink_65
+    21300132: FromTheSkyLink_66
+    21300134: FromTheSkyLink_67
+    21300136: FromTheSkyLink_68
+    21300138: FromTheSkyLink_69
+    21300140: FromTheSkyLink_70
+    21300142: FromTheSkyLink_71
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FromTheSkyLink_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 173
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 171
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 173
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 175
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 174
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 174
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 174
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 172
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 174
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 174
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 175
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_11
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 164
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 140
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 136
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 139
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 144
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 142
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 144
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 143
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 140
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_20
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 140
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_21
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 140
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_22
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 140
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 133
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 108
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 104
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_26
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 109
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_29
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 111
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_30
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 108
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 107
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 105
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 102
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 105
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_35
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 102
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 74
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_37
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 72
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 74
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_39
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_40
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 75
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_41
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 75
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_42
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 75
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_43
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 73
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_44
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 75
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_45
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 75
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_46
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 76
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_47
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 65
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 41
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_49
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 37
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_50
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 45
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 43
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 45
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 44
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_55
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 41
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_56
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 41
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_57
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 41
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_58
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 41
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_59
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 34
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_61
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 5
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_62
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 10
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_63
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 12
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_64
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 12
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_65
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_66
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 9
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_67
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 8
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_68
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 6
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_69
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_70
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 6
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FromTheSkyLink_71
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

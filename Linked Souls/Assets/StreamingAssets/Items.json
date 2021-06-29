@@ -1,0 +1,72 @@
+[
+	{
+		"id": 0,
+		"title": "Épée de Légende",
+		"value": 1,
+		"stats": {
+			"power": 60,
+			"defense": 100,
+			"vitality": 100
+		},
+		"description": "Seul le héros peut l'utiliser",
+		"stackable": false,
+		"rarity": 4,
+		"slug":  "mastersword"
+	},
+	{
+		"id": 1,
+		"title": "Potion de mana",
+		"value": 10,
+		"stats": {
+			"power": 0,
+			"defense": 0,
+			"vitality": 0
+		},
+		"description": "Rend 30 points de mana",
+		"stackable": true,
+		"rarity": 1,
+		"slug":  "mastersword"
+	},
+	{
+		"id": 2,
+		"title": "Potion de santé",
+		"value": 10,
+		"stats": {
+			"power": 0,
+			"defense": 0,
+			"vitality": 0
+		},
+		"description": "Rend 30 points de santé",
+		"stackable": true,
+		"rarity": 1,
+		"slug":  "mastersword"
+	},
+	{
+		"id": 3,
+		"title": "Baton de feu",
+		"value": 1,
+		"stats": {
+			"power": 30,
+			"defense": 0,
+			"vitality": 0
+		},
+		"description": "Sert à tirer des boules de feu",
+		"stackable": true,
+		"rarity": 1,
+		"slug":  "fire"
+	},
+	{
+		"id": 4,
+		"title": "Marteau",
+		"value": 1,
+		"stats": {
+			"power": 50,
+			"defense": 0,
+			"vitality": 0
+		},
+		"description": "Pour frapper à grand coup !",
+		"stackable": true,
+		"rarity": 1,
+		"slug":  "hammer"
+	}
+]
